@@ -19,8 +19,7 @@ Type './phough-wb help' for help message
 It will start the workbench using a default image.
 Some images are available into the 'images' directory.
 
-The GUI allows you to see how the probabilistic hough, canny and hough accumulator
-matrix chance while you vary some parameter.
+The GUI allows you to see how the probabilistic hough, canny and hough accumulator matrix chance while you vary some parameter.
 
 
 License
@@ -28,8 +27,7 @@ License
 
 See file LiCENSE for phough-workbench.cpp.
 
-The other source files contain code taken (partially or entireli) from the OpenCv 
-source code (The probabilistic Hough Transform) and it has been slightly modified.
+The other source files contain code taken (partially or entireli) from the OpenCv source code (The probabilistic Hough Transform) and it has been slightly modified.
 
 The OpenCv code is distributed under BSD license, which allows both academic and
 commercial use.
