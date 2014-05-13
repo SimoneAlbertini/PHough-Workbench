@@ -27,7 +27,7 @@ License
 
 See file LICENSE for phough-wb.cpp.
 
-The other source files contain code taken (partially or entireli) from the OpenCv source code (The probabilistic Hough Transform) and it has been slightly modified.
+The other source files contain code taken (partially or entirely) from the OpenCv source code (the Probabilistic Hough Transform) and it has been slightly modified.
 
 The OpenCv code is distributed under BSD license, which allows both academic and
 commercial use.
