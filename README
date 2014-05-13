@@ -1,0 +1,35 @@
+Requirements
+-----
+
+* C++08 (actually used gcc/g++ 4.8.1)
+* OpenCv 2.4.* with Qt 4 support
+
+This project has been developed under linux environment.
+You may actually need to do little modifications in order to make it work on Windows.
+
+
+Usage
+-----
+
+Type './phough-wb help' for help message
+
+> make clean && make
+> ./phough-wb
+
+It will start the workbench using a default image.
+Some images are available into the 'images' directory.
+
+The GUI allows you to see how the probabilistic hough, canny and hough accumulator
+matrix chance while you vary some parameter.
+
+
+License
+-----
+
+See file LiCENSE for phough-workbench.cpp.
+
+The other source files contain code taken (partially or entireli) from the OpenCv 
+source code (The probabilistic Hough Transform) and it has been slightly modified.
+
+The OpenCv code is distributed under BSD license, which allows both academic and
+commercial use.
