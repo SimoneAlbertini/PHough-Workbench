@@ -25,7 +25,7 @@ The GUI allows you to see how the probabilistic hough, canny and hough accumulat
 License
 -----
 
-See file LiCENSE for phough-workbench.cpp.
+See file LiCENSE for phough-wb.cpp.
 
 The other source files contain code taken (partially or entireli) from the OpenCv source code (The probabilistic Hough Transform) and it has been slightly modified.
 
